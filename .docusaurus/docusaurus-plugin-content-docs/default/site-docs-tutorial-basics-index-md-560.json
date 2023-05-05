@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Tutorial - Basics/index",
+  "id": "Tutorial - Basics/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/Tutorial - Basics/index.md",
+  "sourceDirName": "Tutorial - Basics",
+  "slug": "/Tutorial - Basics/",
+  "permalink": "/docs/Tutorial - Basics/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Tutorial - Basics/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/docs/Tutorial - Basics/congratulations"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "快速开始/create-a-blog-post",
+  "id": "快速开始/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/快速开始/create-a-blog-post.md",
+  "sourceDirName": "快速开始",
+  "slug": "/快速开始/create-a-blog-post",
+  "permalink": "/docs/快速开始/create-a-blog-post",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/快速开始/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/docs/快速开始/create-a-document"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/docs/快速开始/markdown-features"
+  }
+}

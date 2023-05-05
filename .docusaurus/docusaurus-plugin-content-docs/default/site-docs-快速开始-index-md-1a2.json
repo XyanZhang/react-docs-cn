@@ -1,0 +1,27 @@
+{
+  "unversionedId": "快速开始/index",
+  "id": "快速开始/index",
+  "title": "快速开始",
+  "description": "欢迎来到React文档！此页面将为您介绍您每天将使用的80％的React概念。",
+  "source": "@site/docs/快速开始/index.md",
+  "sourceDirName": "快速开始",
+  "slug": "/快速开始/",
+  "permalink": "/docs/快速开始/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/快速开始/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "快速开始",
+    "permalink": "/docs/category/快速开始"
+  },
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/docs/快速开始/create-a-page"
+  }
+}

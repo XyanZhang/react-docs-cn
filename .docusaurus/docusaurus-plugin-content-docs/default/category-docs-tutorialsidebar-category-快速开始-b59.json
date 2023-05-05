@@ -1,0 +1,16 @@
+{
+  "title": "快速开始",
+  "description": "欢迎来到React文档！此页面将为您介绍您每天将使用的80％的React概念。",
+  "slug": "/category/快速开始",
+  "permalink": "/docs/category/快速开始",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "快速开始",
+      "permalink": "/docs/快速开始/"
+    }
+  }
+}
