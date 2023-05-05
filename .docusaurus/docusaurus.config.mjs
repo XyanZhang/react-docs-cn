@@ -338,7 +338,13 @@ export default {
     }
   },
   "themes": [
-    "@docusaurus/theme-live-codeblock"
+    "@docusaurus/theme-live-codeblock",
+    [
+      "D:\\code\\react-docs-cn\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      {
+        "hashed": true
+      }
+    ]
   ],
   "baseUrlIssueBanner": true,
   "onDuplicateRoutes": "warn",

@@ -749,6 +749,7 @@
   "docusaurus-plugin-debug": {},
   "docusaurus-theme-classic": {},
   "docusaurus-theme-live-codeblock": {},
+  "@easyops-cn/docusaurus-search-local": {},
   "docusaurus-bootstrap-plugin": {},
   "docusaurus-mdx-fallback-plugin": {}
 }

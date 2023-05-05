@@ -17,9 +17,9 @@
       "name": "@docusaurus/plugin-content-pages",
       "version": "2.4.0"
     },
-    "docusaurus-plugin-debug": {
+    "docusaurus-plugin-sitemap": {
       "type": "package",
-      "name": "@docusaurus/plugin-debug",
+      "name": "@docusaurus/plugin-sitemap",
       "version": "2.4.0"
     },
     "docusaurus-theme-classic": {
@@ -31,6 +31,11 @@
       "type": "package",
       "name": "@docusaurus/theme-live-codeblock",
       "version": "2.4.0"
+    },
+    "@easyops-cn/docusaurus-search-local": {
+      "type": "package",
+      "name": "@easyops-cn/docusaurus-search-local",
+      "version": "0.35.0"
     }
   }
 }
