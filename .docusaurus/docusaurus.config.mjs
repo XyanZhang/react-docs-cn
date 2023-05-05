@@ -316,6 +316,9 @@ export default {
         }
       ]
     },
+    "liveCodeBlock": {
+      "playgroundPosition": "bottom"
+    },
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,
@@ -334,6 +337,9 @@ export default {
       "maxHeadingLevel": 3
     }
   },
+  "themes": [
+    "@docusaurus/theme-live-codeblock"
+  ],
   "baseUrlIssueBanner": true,
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
@@ -341,7 +347,6 @@ export default {
   ],
   "customFields": {},
   "plugins": [],
-  "themes": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],

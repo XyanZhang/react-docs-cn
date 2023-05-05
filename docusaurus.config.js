@@ -133,7 +133,15 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      liveCodeBlock: {
+        /**
+         * The position of the live playground, above or under the editor
+         * Possible values: "top" | "bottom"
+         */
+        playgroundPosition: 'bottom',
+      },
     }),
+  themes: ['@docusaurus/theme-live-codeblock'],
 };
 
 module.exports = config;
