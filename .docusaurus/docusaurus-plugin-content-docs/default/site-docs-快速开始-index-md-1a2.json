@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "快速开始",
-    "permalink": "/docs/category/快速开始"
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
   },
   "next": {
     "title": "Create a Page",

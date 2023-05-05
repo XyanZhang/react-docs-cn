@@ -23,12 +23,6 @@
         "items": [
           {
             "type": "link",
-            "label": "快速开始",
-            "href": "/docs/快速开始/",
-            "docId": "快速开始/index"
-          },
-          {
-            "type": "link",
             "label": "Create a Page",
             "href": "/docs/快速开始/create-a-page",
             "docId": "快速开始/create-a-page"
@@ -64,7 +58,13 @@
             "docId": "快速开始/congratulations"
           }
         ],
-        "href": "/docs/category/快速开始"
+        "href": "/docs/快速开始/"
+      },
+      {
+        "type": "link",
+        "label": "安装",
+        "href": "/docs/安装/",
+        "docId": "安装/index"
       },
       {
         "type": "category",
@@ -90,6 +90,12 @@
     ]
   },
   "docs": {
+    "安装/index": {
+      "id": "安装/index",
+      "title": "安装",
+      "description": "React 从一开始就被设计为逐步采用。您可以根据需要使用尽可能少或尽可能多的 React。无论您是想体验 React、向 HTML 页面添加一些交互性，还是启动复杂的 React 驱动的应用程序，本节都将帮助您入门。",
+      "sidebar": "tutorialSidebar"
+    },
     "快速开始/congratulations": {
       "id": "快速开始/congratulations",
       "title": "Congratulations!",

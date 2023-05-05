@@ -20,6 +20,33 @@
           "contentPathLocalized": "D:\\code\\react-docs-cn\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
+              "unversionedId": "安装/index",
+              "id": "安装/index",
+              "title": "安装",
+              "description": "React 从一开始就被设计为逐步采用。您可以根据需要使用尽可能少或尽可能多的 React。无论您是想体验 React、向 HTML 页面添加一些交互性，还是启动复杂的 React 驱动的应用程序，本节都将帮助您入门。",
+              "source": "@site/docs/安装/index.md",
+              "sourceDirName": "安装",
+              "slug": "/安装/",
+              "permalink": "/docs/安装/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/安装/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/docs/快速开始/congratulations"
+              },
+              "next": {
+                "title": "Tutorial - Extras",
+                "permalink": "/docs/category/tutorial---extras"
+              }
+            },
+            {
               "unversionedId": "快速开始/congratulations",
               "id": "快速开始/congratulations",
               "title": "Congratulations!",
@@ -42,8 +69,8 @@
                 "permalink": "/docs/快速开始/deploy-your-site"
               },
               "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "title": "安装",
+                "permalink": "/docs/安装/"
               }
             },
             {
@@ -173,8 +200,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "快速开始",
-                "permalink": "/docs/category/快速开始"
+                "title": "Tutorial Intro",
+                "permalink": "/docs/intro"
               },
               "next": {
                 "title": "Create a Page",
@@ -228,7 +255,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "快速开始",
-                "permalink": "/docs/category/快速开始"
+                "permalink": "/docs/快速开始/"
               }
             },
             {
@@ -297,10 +324,6 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "快速开始/index"
-                  },
-                  {
-                    "type": "doc",
                     "id": "快速开始/create-a-page"
                   },
                   {
@@ -325,11 +348,14 @@
                   }
                 ],
                 "link": {
-                  "type": "generated-index",
-                  "description": "欢迎来到React文档！此页面将为您介绍您每天将使用的80％的React概念。",
-                  "slug": "/category/快速开始",
-                  "permalink": "/docs/category/快速开始"
+                  "type": "doc",
+                  "id": "快速开始/index"
                 }
+              },
+              {
+                "type": "doc",
+                "label": "安装",
+                "id": "安装/index"
               },
               {
                 "type": "category",

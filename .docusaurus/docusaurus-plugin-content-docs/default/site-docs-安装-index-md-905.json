@@ -1,0 +1,27 @@
+{
+  "unversionedId": "安装/index",
+  "id": "安装/index",
+  "title": "安装",
+  "description": "React 从一开始就被设计为逐步采用。您可以根据需要使用尽可能少或尽可能多的 React。无论您是想体验 React、向 HTML 页面添加一些交互性，还是启动复杂的 React 驱动的应用程序，本节都将帮助您入门。",
+  "source": "@site/docs/安装/index.md",
+  "sourceDirName": "安装",
+  "slug": "/安装/",
+  "permalink": "/docs/安装/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/安装/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/docs/快速开始/congratulations"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

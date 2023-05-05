@@ -99,8 +99,14 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '183'),
+    component: ComponentCreator('/docs', '49d'),
     routes: [
+      {
+        path: '/docs/安装/',
+        component: ComponentCreator('/docs/安装/', '9f9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/docs/快速开始/',
         component: ComponentCreator('/docs/快速开始/', '5b8'),
@@ -140,12 +146,6 @@ export default [
       {
         path: '/docs/快速开始/markdown-features',
         component: ComponentCreator('/docs/快速开始/markdown-features', 'f1e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/category/快速开始',
-        component: ComponentCreator('/docs/category/快速开始', 'a37'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

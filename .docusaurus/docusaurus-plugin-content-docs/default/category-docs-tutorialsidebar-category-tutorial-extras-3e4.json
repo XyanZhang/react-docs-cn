@@ -4,8 +4,8 @@
   "permalink": "/docs/category/tutorial---extras",
   "navigation": {
     "previous": {
-      "title": "Congratulations!",
-      "permalink": "/docs/快速开始/congratulations"
+      "title": "安装",
+      "permalink": "/docs/安装/"
     },
     "next": {
       "title": "Manage Docs Versions",

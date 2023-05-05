@@ -186,12 +186,16 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-183": {
+  "/docs-49d": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-529-54e"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/安装/-9f9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-安装-905-5de"
   },
   "/docs/快速开始/-5b8": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -220,10 +224,6 @@
   "/docs/快速开始/markdown-features-f1e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-快速开始-markdown-featuresc-11-217"
-  },
-  "/docs/category/快速开始-a37": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-快速开始-1-e-1-59c"
   },
   "/docs/category/tutorial---extras-f09": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
