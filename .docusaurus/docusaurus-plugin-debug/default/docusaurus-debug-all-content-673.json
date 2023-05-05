@@ -146,8 +146,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "快速开始",
-                "permalink": "/docs/快速开始/"
+                "title": "React 中的思考",
+                "permalink": "/docs/快速开始/React中的思考"
               },
               "next": {
                 "title": "Create a Document",
@@ -204,8 +204,8 @@
                 "permalink": "/docs/intro"
               },
               "next": {
-                "title": "Create a Page",
-                "permalink": "/docs/快速开始/create-a-page"
+                "title": "React 中的思考",
+                "permalink": "/docs/快速开始/React中的思考"
               }
             },
             {
@@ -233,6 +233,33 @@
               "next": {
                 "title": "Deploy your site",
                 "permalink": "/docs/快速开始/deploy-your-site"
+              }
+            },
+            {
+              "unversionedId": "快速开始/React中的思考",
+              "id": "快速开始/React中的思考",
+              "title": "React 中的思考",
+              "description": "React 可以改变您对所看到的设计和构建的应用程序的看法。当您使用 React 构建用户界面时，您首先会将其分解为称为组件的部分。然后，您将描述每个组件的不同视觉状态。最后，您会将组件连接在一起，以便数据流经它们。在本教程中，我们将引导您完成使用 React 构建可搜索产品数据表的思考过程。",
+              "source": "@site/docs/快速开始/React中的思考.md",
+              "sourceDirName": "快速开始",
+              "slug": "/快速开始/React中的思考",
+              "permalink": "/docs/快速开始/React中的思考",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/快速开始/React中的思考.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "快速开始",
+                "permalink": "/docs/快速开始/"
+              },
+              "next": {
+                "title": "Create a Page",
+                "permalink": "/docs/快速开始/create-a-page"
               }
             },
             {
@@ -322,6 +349,10 @@
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
+                  {
+                    "type": "doc",
+                    "id": "快速开始/React中的思考"
+                  },
                   {
                     "type": "doc",
                     "id": "快速开始/create-a-page"

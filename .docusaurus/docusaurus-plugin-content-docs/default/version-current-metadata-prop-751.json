@@ -23,6 +23,12 @@
         "items": [
           {
             "type": "link",
+            "label": "React 中的思考",
+            "href": "/docs/快速开始/React中的思考",
+            "docId": "快速开始/React中的思考"
+          },
+          {
+            "type": "link",
             "label": "Create a Page",
             "href": "/docs/快速开始/create-a-page",
             "docId": "快速开始/create-a-page"
@@ -136,6 +142,12 @@
       "id": "快速开始/markdown-features",
       "title": "Markdown Features",
       "description": "Docusaurus supports Markdown and a few additional features.",
+      "sidebar": "tutorialSidebar"
+    },
+    "快速开始/React中的思考": {
+      "id": "快速开始/React中的思考",
+      "title": "React 中的思考",
+      "description": "React 可以改变您对所看到的设计和构建的应用程序的看法。当您使用 React 构建用户界面时，您首先会将其分解为称为组件的部分。然后，您将描述每个组件的不同视觉状态。最后，您会将组件连接在一起，以便数据流经它们。在本教程中，我们将引导您完成使用 React 构建可搜索产品数据表的思考过程。",
       "sidebar": "tutorialSidebar"
     },
     "intro": {
