@@ -16,5 +16,9 @@
   "previous": {
     "title": "Translate your site",
     "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "逃生舱",
+    "permalink": "/docs/逃生舱/"
   }
 }

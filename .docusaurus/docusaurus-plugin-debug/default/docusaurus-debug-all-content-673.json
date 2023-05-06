@@ -280,6 +280,30 @@
               "previous": {
                 "title": "Translate your site",
                 "permalink": "/docs/tutorial-extras/translate-your-site"
+              },
+              "next": {
+                "title": "逃生舱",
+                "permalink": "/docs/逃生舱/"
+              }
+            },
+            {
+              "unversionedId": "逃生舱/index",
+              "id": "逃生舱/index",
+              "title": "逃生舱",
+              "description": "你的一些组件可能需要控制和同步 React 之外的系统。例如，您可能需要使用浏览器 API 聚焦输入，播放和暂停未使用 React 实现的视频播放器，或者连接并收听来自远程服务器的消息。在本章中，您将学习让您“走出”React 并连接到外部系统的逃生舱口。大多数应用程序逻辑和数据流不应依赖这些功能。",
+              "source": "@site/docs/逃生舱/index.md",
+              "sourceDirName": "逃生舱",
+              "slug": "/逃生舱/",
+              "permalink": "/docs/逃生舱/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/逃生舱/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "描述用户界面",
+                "permalink": "/docs/描述UI/"
               }
             },
             {
@@ -435,8 +459,13 @@
               },
               {
                 "type": "doc",
-                "label": "描述用户界面",
+                "label": "描述UI",
                 "id": "描述UI/index"
+              },
+              {
+                "type": "doc",
+                "label": "逃生舱",
+                "id": "逃生舱/index"
               }
             ]
           }

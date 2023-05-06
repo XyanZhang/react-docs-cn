@@ -95,9 +95,15 @@
       },
       {
         "type": "link",
-        "label": "描述用户界面",
+        "label": "描述UI",
         "href": "/docs/描述UI/",
         "docId": "描述UI/index"
+      },
+      {
+        "type": "link",
+        "label": "逃生舱",
+        "href": "/docs/逃生舱/",
+        "docId": "逃生舱/index"
       }
     ]
   },
@@ -160,6 +166,12 @@
       "id": "描述UI/index",
       "title": "描述用户界面",
       "description": "React 是一个用于呈现用户界面 (UI) 的 JavaScript 库。 UI 由按钮、文本和图像等小单元构建而成。 React 允许您将它们组合成可重用、可嵌套的组件。从网站到手机应用程序，屏幕上的一切都可以分解成组件。在本章中，您将学习创建、自定义和有条件地显示 React 组件。",
+      "sidebar": "tutorialSidebar"
+    },
+    "逃生舱/index": {
+      "id": "逃生舱/index",
+      "title": "逃生舱",
+      "description": "你的一些组件可能需要控制和同步 React 之外的系统。例如，您可能需要使用浏览器 API 聚焦输入，播放和暂停未使用 React 实现的视频播放器，或者连接并收听来自远程服务器的消息。在本章中，您将学习让您“走出”React 并连接到外部系统的逃生舱口。大多数应用程序逻辑和数据流不应依赖这些功能。",
       "sidebar": "tutorialSidebar"
     },
     "intro": {
