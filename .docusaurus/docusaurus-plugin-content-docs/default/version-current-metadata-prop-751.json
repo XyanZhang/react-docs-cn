@@ -101,6 +101,18 @@
       },
       {
         "type": "link",
+        "label": "添加交互",
+        "href": "/docs/添加交互/",
+        "docId": "添加交互/index"
+      },
+      {
+        "type": "link",
+        "label": "管理状态",
+        "href": "/docs/管理状态/",
+        "docId": "管理状态/index"
+      },
+      {
+        "type": "link",
         "label": "逃生舱",
         "href": "/docs/逃生舱/",
         "docId": "逃生舱/index"
@@ -112,6 +124,12 @@
       "id": "安装/index",
       "title": "安装",
       "description": "React 从一开始就被设计为逐步采用。您可以根据需要使用尽可能少或尽可能多的 React。无论您是想体验 React、向 HTML 页面添加一些交互性，还是启动复杂的 React 驱动的应用程序，本节都将帮助您入门。",
+      "sidebar": "tutorialSidebar"
+    },
+    "管理状态/index": {
+      "id": "管理状态/index",
+      "title": "管理状态",
+      "description": "随着您的应用程序的增长，更有意识地了解您的状态是如何组织的以及数据如何在您的组件之间流动是有帮助的。冗余或重复状态是错误的常见来源。在本章中，您将学习如何很好地构建状态，如何保持状态更新逻辑的可维护性，以及如何在远距离组件之间共享状态。",
       "sidebar": "tutorialSidebar"
     },
     "快速开始/congratulations": {
@@ -172,6 +190,12 @@
       "id": "逃生舱/index",
       "title": "逃生舱",
       "description": "你的一些组件可能需要控制和同步 React 之外的系统。例如，您可能需要使用浏览器 API 聚焦输入，播放和暂停未使用 React 实现的视频播放器，或者连接并收听来自远程服务器的消息。在本章中，您将学习让您“走出”React 并连接到外部系统的逃生舱口。大多数应用程序逻辑和数据流不应依赖这些功能。",
+      "sidebar": "tutorialSidebar"
+    },
+    "添加交互/index": {
+      "id": "添加交互/index",
+      "title": "添加交互",
+      "description": "屏幕上的某些内容会响应用户输入而更新。例如，单击图片库会切换活动图像。在 React 中，随时间变化的数据称为状态。您可以向任何组件添加状态，并根据需要更新它。在本章中，您将学习如何编写组件来处理交互、更新它们的状态以及随时间显示不同的输出。",
       "sidebar": "tutorialSidebar"
     },
     "intro": {

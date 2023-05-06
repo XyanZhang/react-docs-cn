@@ -47,6 +47,30 @@
               }
             },
             {
+              "unversionedId": "管理状态/index",
+              "id": "管理状态/index",
+              "title": "管理状态",
+              "description": "随着您的应用程序的增长，更有意识地了解您的状态是如何组织的以及数据如何在您的组件之间流动是有帮助的。冗余或重复状态是错误的常见来源。在本章中，您将学习如何很好地构建状态，如何保持状态更新逻辑的可维护性，以及如何在远距离组件之间共享状态。",
+              "source": "@site/docs/管理状态/index.md",
+              "sourceDirName": "管理状态",
+              "slug": "/管理状态/",
+              "permalink": "/docs/管理状态/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/管理状态/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "添加交互",
+                "permalink": "/docs/添加交互/"
+              },
+              "next": {
+                "title": "逃生舱",
+                "permalink": "/docs/逃生舱/"
+              }
+            },
+            {
               "unversionedId": "快速开始/congratulations",
               "id": "快速开始/congratulations",
               "title": "Congratulations!",
@@ -282,8 +306,8 @@
                 "permalink": "/docs/tutorial-extras/translate-your-site"
               },
               "next": {
-                "title": "逃生舱",
-                "permalink": "/docs/逃生舱/"
+                "title": "添加交互",
+                "permalink": "/docs/添加交互/"
               }
             },
             {
@@ -302,8 +326,32 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
+                "title": "管理状态",
+                "permalink": "/docs/管理状态/"
+              }
+            },
+            {
+              "unversionedId": "添加交互/index",
+              "id": "添加交互/index",
+              "title": "添加交互",
+              "description": "屏幕上的某些内容会响应用户输入而更新。例如，单击图片库会切换活动图像。在 React 中，随时间变化的数据称为状态。您可以向任何组件添加状态，并根据需要更新它。在本章中，您将学习如何编写组件来处理交互、更新它们的状态以及随时间显示不同的输出。",
+              "source": "@site/docs/添加交互/index.md",
+              "sourceDirName": "添加交互",
+              "slug": "/添加交互/",
+              "permalink": "/docs/添加交互/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/添加交互/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
                 "title": "描述用户界面",
                 "permalink": "/docs/描述UI/"
+              },
+              "next": {
+                "title": "管理状态",
+                "permalink": "/docs/管理状态/"
               }
             },
             {
@@ -461,6 +509,16 @@
                 "type": "doc",
                 "label": "描述UI",
                 "id": "描述UI/index"
+              },
+              {
+                "type": "doc",
+                "label": "添加交互",
+                "id": "添加交互/index"
+              },
+              {
+                "type": "doc",
+                "label": "管理状态",
+                "id": "管理状态/index"
               },
               {
                 "type": "doc",

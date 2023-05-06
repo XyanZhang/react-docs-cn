@@ -104,11 +104,17 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'f56'),
+    component: ComponentCreator('/docs', 'c60'),
     routes: [
       {
         path: '/docs/安装/',
         component: ComponentCreator('/docs/安装/', '9f9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/管理状态/',
+        component: ComponentCreator('/docs/管理状态/', '1cb'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -169,6 +175,12 @@ export default [
       {
         path: '/docs/逃生舱/',
         component: ComponentCreator('/docs/逃生舱/', '34a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/添加交互/',
+        component: ComponentCreator('/docs/添加交互/', '0af'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

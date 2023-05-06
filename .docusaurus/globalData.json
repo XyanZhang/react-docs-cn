@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "管理状态/index",
+              "path": "/docs/管理状态/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "快速开始/congratulations",
               "path": "/docs/快速开始/congratulations",
               "sidebar": "tutorialSidebar"
@@ -63,6 +68,11 @@
             {
               "id": "逃生舱/index",
               "path": "/docs/逃生舱/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "添加交互/index",
+              "path": "/docs/添加交互/",
               "sidebar": "tutorialSidebar"
             },
             {

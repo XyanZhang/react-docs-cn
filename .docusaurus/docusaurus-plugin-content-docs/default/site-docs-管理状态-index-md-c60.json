@@ -1,0 +1,24 @@
+{
+  "unversionedId": "管理状态/index",
+  "id": "管理状态/index",
+  "title": "管理状态",
+  "description": "随着您的应用程序的增长，更有意识地了解您的状态是如何组织的以及数据如何在您的组件之间流动是有帮助的。冗余或重复状态是错误的常见来源。在本章中，您将学习如何很好地构建状态，如何保持状态更新逻辑的可维护性，以及如何在远距离组件之间共享状态。",
+  "source": "@site/docs/管理状态/index.md",
+  "sourceDirName": "管理状态",
+  "slug": "/管理状态/",
+  "permalink": "/docs/管理状态/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/管理状态/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "添加交互",
+    "permalink": "/docs/添加交互/"
+  },
+  "next": {
+    "title": "逃生舱",
+    "permalink": "/docs/逃生舱/"
+  }
+}
