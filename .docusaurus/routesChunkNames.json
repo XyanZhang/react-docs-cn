@@ -192,7 +192,7 @@
       "plugin": "plugin---search-85-d-115"
     }
   },
-  "/docs-0a0": {
+  "/docs-d83": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-529-54e"
@@ -234,6 +234,10 @@
   "/docs/快速开始/React中的思考-22b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-快速开始-react中的思考-63-c-900"
+  },
+  "/docs/描述UI/-eed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-描述ui-8-c-7-4c3"
   },
   "/docs/category/tutorial---extras-f09": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",

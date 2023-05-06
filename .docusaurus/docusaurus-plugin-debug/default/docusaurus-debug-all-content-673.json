@@ -263,6 +263,26 @@
               }
             },
             {
+              "unversionedId": "描述UI/index",
+              "id": "描述UI/index",
+              "title": "描述用户界面",
+              "description": "React 是一个用于呈现用户界面 (UI) 的 JavaScript 库。 UI 由按钮、文本和图像等小单元构建而成。 React 允许您将它们组合成可重用、可嵌套的组件。从网站到手机应用程序，屏幕上的一切都可以分解成组件。在本章中，您将学习创建、自定义和有条件地显示 React 组件。",
+              "source": "@site/docs/描述UI/index.md",
+              "sourceDirName": "描述UI",
+              "slug": "/描述UI/",
+              "permalink": "/docs/描述UI/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/描述UI/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Translate your site",
+                "permalink": "/docs/tutorial-extras/translate-your-site"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
               "title": "Tutorial Intro",
@@ -333,6 +353,10 @@
               "previous": {
                 "title": "Manage Docs Versions",
                 "permalink": "/docs/tutorial-extras/manage-docs-versions"
+              },
+              "next": {
+                "title": "描述用户界面",
+                "permalink": "/docs/描述UI/"
               }
             }
           ],
@@ -408,6 +432,11 @@
                   "slug": "/category/tutorial---extras",
                   "permalink": "/docs/category/tutorial---extras"
                 }
+              },
+              {
+                "type": "doc",
+                "label": "描述用户界面",
+                "id": "描述UI/index"
               }
             ]
           }

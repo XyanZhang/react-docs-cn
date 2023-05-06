@@ -92,6 +92,12 @@
           }
         ],
         "href": "/docs/category/tutorial---extras"
+      },
+      {
+        "type": "link",
+        "label": "描述用户界面",
+        "href": "/docs/描述UI/",
+        "docId": "描述UI/index"
       }
     ]
   },
@@ -148,6 +154,12 @@
       "id": "快速开始/React中的思考",
       "title": "React 中的思考",
       "description": "React 可以改变您对所看到的设计和构建的应用程序的看法。当您使用 React 构建用户界面时，您首先会将其分解为称为组件的部分。然后，您将描述每个组件的不同视觉状态。最后，您会将组件连接在一起，以便数据流经它们。在本教程中，我们将引导您完成使用 React 构建可搜索产品数据表的思考过程。",
+      "sidebar": "tutorialSidebar"
+    },
+    "描述UI/index": {
+      "id": "描述UI/index",
+      "title": "描述用户界面",
+      "description": "React 是一个用于呈现用户界面 (UI) 的 JavaScript 库。 UI 由按钮、文本和图像等小单元构建而成。 React 允许您将它们组合成可重用、可嵌套的组件。从网站到手机应用程序，屏幕上的一切都可以分解成组件。在本章中，您将学习创建、自定义和有条件地显示 React 组件。",
       "sidebar": "tutorialSidebar"
     },
     "intro": {

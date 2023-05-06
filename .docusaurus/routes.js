@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '0a0'),
+    component: ComponentCreator('/docs', 'd83'),
     routes: [
       {
         path: '/docs/安装/',
@@ -157,6 +157,12 @@ export default [
       {
         path: '/docs/快速开始/React中的思考',
         component: ComponentCreator('/docs/快速开始/React中的思考', '22b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/描述UI/',
+        component: ComponentCreator('/docs/描述UI/', 'eed'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
